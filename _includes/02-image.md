@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Pokémon Lycanroc](https://www.deviantart.com/bluekomadori/art/Lycanroc-Midnight-Form-636100049)
