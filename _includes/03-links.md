@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[#745 Lycanroc](https://www.serebii.net/pokedex-sm/745.shtml)
